@@ -7,7 +7,7 @@ A production Uniswap v4 hook. It holds no funds and takes no fee for itself. No 
 - **Site:** https://liquidity-floor.pages.dev
 - **Catalogue:** https://hookforge.pages.dev
 - **Contract:** [`src/hooks/LiquidityFloorHook.sol`](src/hooks/LiquidityFloorHook.sol)
-- **Licence:** MIT
+- **Licence:** Apache-2.0
 
 ## How it works
 
