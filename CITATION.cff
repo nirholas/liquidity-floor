@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "liquidity-floor"
+abstract: "A liquidity commitment enforced per position: a fraction of what you add cannot leave until the pool's unlock date, and every provider is held to that fraction of their own stake rather than to a shared pool total."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/liquidity-floor"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

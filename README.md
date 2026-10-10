@@ -1,5 +1,10 @@
 # LiquidityFloor
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/liquidity-floor?style=flat&logo=github)](https://github.com/nirholas/liquidity-floor/stargazers) [![License](https://img.shields.io/github/license/nirholas/liquidity-floor?style=flat)](https://github.com/nirholas/liquidity-floor/blob/HEAD/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/nirholas/liquidity-floor?style=flat)](https://github.com/nirholas/liquidity-floor/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/liquidity-floor/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/liquidity-floor/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 **A liquidity commitment enforced per position: a fraction of what you add cannot leave until the pool's unlock date, and every provider is held to that fraction of their own stake rather than to a shared pool total.**
 
 A production Uniswap v4 hook. It holds no funds and takes no fee for itself. No owner, no pause switch, no upgrade path.
@@ -120,3 +125,26 @@ Not affiliated with Uniswap Labs.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/liquidity-floor&type=Date)](https://www.star-history.com/#nirholas/liquidity-floor&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If liquidity-floor saves you time, **[star it on GitHub](https://github.com/nirholas/liquidity-floor)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=liquidity-floor%3A%20A%20liquidity%20commitment%20enforced%20per%20position%3A%20a%20fraction%20of%20what%20you%20add%20cannot%20leave%20until%20the&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fliquidity-floor) · [Share on Bluesky](https://bsky.app/intent/compose?text=liquidity-floor%3A%20A%20liquidity%20commitment%20enforced%20per%20position%3A%20a%20fraction%20of%20what%20you%20add%20cannot%20leave%20until%20the%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fliquidity-floor) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fliquidity-floor) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fliquidity-floor&t=liquidity-floor%3A%20A%20liquidity%20commitment%20enforced%20per%20position%3A%20a%20fraction%20of%20what%20you%20add%20cannot%20leave%20until%20the) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fliquidity-floor&title=liquidity-floor%3A%20A%20liquidity%20commitment%20enforced%20per%20position%3A%20a%20fraction%20of%20what%20you%20add%20cannot%20leave%20until%20the)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/liquidity-floor` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/liquidity-floor/issues) or [start a discussion](https://github.com/nirholas/liquidity-floor/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/liquidity-floor)](https://github.com/nirholas/liquidity-floor/graphs/contributors)
+
+<!-- /three.ws:growth -->
